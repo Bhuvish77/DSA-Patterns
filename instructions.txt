@@ -1,0 +1,14 @@
+This Repository has been Created to Follow up our DSA journey;
+
+This Repository is Included with all the Necessary DSA questions which should Be solved for gaining more Clarity and 
+understanding DSA.
+
+Note:-
+Pull this Repositoryin your Laptop and save the file in your Lap (a second Copy ) and have it for your Reference 
+
+In mean Time,Go through it , We are Going to Practice questions via Using this Repository
+
+More Importantly,I Can share this via Using Another Platforms,but this Platform may Improve out our Performance more 
+delibrately and We tend to feel more confident while Using this Domain[Github]
+
+So,Follow the Instructions atmost you Can.<|>
